@@ -1,0 +1,16 @@
+Danni:
+Name AirPort: Plodviv
+Date ot Flight: 17-08-2024
+ID of the Flight: 2
+Count of the avelable seats: 142
+Count of the sold tickets: 238
+Name AirPort: Sofia
+Date ot Flight: 24-07-2024
+ID of the Flight: 3
+Count of the avelable seats: 76
+Count of the sold tickets: 324
+Name AirPort: Varna
+Date ot Flight: 31-08-2024
+ID of the Flight: 5
+Count of the avelable seats: 367
+Count of the sold tickets: 33
